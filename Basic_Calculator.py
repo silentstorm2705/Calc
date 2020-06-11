@@ -11,4 +11,4 @@ elif operation == "*" :
     result = num1 * num2
 else :
     print("Invalid Input")
-print("The answer is" + "=" + str(result))
+print("The answer is" + "= " + str(result))
